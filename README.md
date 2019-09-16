@@ -3,7 +3,7 @@
 ## Install
 
 ```
-composer instal
+composer install
 ```
 
 ## Usage
